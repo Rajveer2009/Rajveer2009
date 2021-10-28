@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Rajveer2009
 - 🌱 I’m currently learning Python, JS and Linux
-- 📫 How to reach me @bot_Rajveer on twitter
+- 📫 my twitter @bot_Rajveer
