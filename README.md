@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Rajveer2009
-- 🌱 I’m currently learning Python, JS and Linux
+- 🌱 I’m currently learning Python, JS and Penetration Testing
 - 📫 Follow me on Twitter @bot_Rajveer
