@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Rajveer2009
-- 🌱 I’m currently learning Python and Javascript
-- 📫 Checkout my [website](https://rajveer2009.github.io/) 
+- 🌱 I’m currently learning C and Rust
+- 📫 Checkout my [website](https://rajveer2009.github.io/)
